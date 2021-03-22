@@ -1,0 +1,7 @@
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\obj\Debug\STMA-Financiera.csprojResolveAssemblyReference.cache
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\obj\Debug\STMA_Financiera.Properties.Resources.resources
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\obj\Debug\STMA-Financiera.csproj.GenerateResource.Cache
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\bin\Debug\STMA-Financiera.exe
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\bin\Debug\STMA-Financiera.pdb
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\obj\Debug\STMA-Financiera.exe
+D:\Documentos\Unicauca\POO\Chaustre 3\Segundo Corte\STMA-Financiera\STMA-Financiera\obj\Debug\STMA-Financiera.pdb
